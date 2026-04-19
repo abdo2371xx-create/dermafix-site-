@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dermafix Cream</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>💊 Dermafix Cream</h1>
+  <p>Wound Healing • Skin Repair | التئام الجروح وتجديد الجلد</p>
+</header>
+
+<section class="card">
+  <h2>🧪 Active Ingredients | المكونات الفعالة</h2>
+
+  <p><b>Calendula Extract</b>: Stimulates collagen and wound healing.<br>
+  خلاصة الكاليندولا: تحفز الكولاجين وتسرع الالتئام.</p>
+
+  <p><b>Aloe Vera</b>: Moisturizes and soothes skin.<br>
+  الألوفيرا: ترطب وتهدئ الجلد.</p>
+
+  <p><b>Tea Tree Oil</b>: Anti-inflammatory & antioxidant.<br>
+  مضاد التهاب وأكسدة.</p>
+
+  <p><b>Chlorhexidine</b>: Antibacterial & antifungal.<br>
+  مضاد للبكتيريا والفطريات.</p>
+
+  <p><b>Licorice Extract</b>: Evens skin tone.<br>
+  يوحد لون البشرة.</p>
+
+  <p><b>Coconut Oil</b>: Soothes and heals skin.<br>
+  يهدئ الجلد ويساعد الالتئام.</p>
+
+  <p><b>Panthenol</b>: Repairs skin barrier.<br>
+  يعالج حاجز الجلد.</p>
+
+  <p><b>Vitamin E</b>: Antioxidant for healing.<br>
+  مضاد أكسدة ويساعد التئام الجروح.</p>
+</section>
+
+<section class="card">
+  <h2>💊 Intended Use | الاستخدام</h2>
+  <ul>
+    <li>Promotes wound healing</li>
+    <li>Moisturizes and soothes skin</li>
+    <li>Reduces inflammation</li>
+    <li>Treats minor burns and cuts</li>
+    <li>Protects against infection</li>
+    <li>Soothes irritation</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>💊 How to Use | طريقة الاستخدام</h2>
+  <p>Apply a thin layer on affected area when needed.<br>
+  يُوضع طبقة خفيفة على المنطقة المصابة.</p>
+</section>
+
+<section class="card">
+  <h2>🌡️ Storage | التخزين</h2>
+  <ul>
+    <li>Keep at room temperature</li>
+    <li>Avoid sunlight</li>
+    <li>Keep away from children</li>
+    <li>Avoid eye contact</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>⚠️ Side Effects | الأعراض الجانبية</h2>
+  <ul>
+    <li>Mild redness</li>
+    <li>Itching</li>
+    <li>Skin irritation (rare)</li>
+    <li>Dryness with overuse</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>🚫 Precautions | التحذيرات</h2>
+  <ul>
+    <li>Do not use if allergic</li>
+    <li>Avoid deep wounds without doctor advice</li>
+    <li>Avoid eyes contact</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>🛒 Availability | التوفر</h2>
+  <p>
+    Available in pharmacies and healthcare stores.<br>
+    متوفر في الصيدليات والمتاجر الطبية.
+  </p>
+
+  <p>
+    Online availability may come in the future.<br>
+    قد يتوفر أونلاين مستقبلًا.
+  </p>
+</section>
+
+<section class="card">
+  <h2>📞 Contact</h2>
+  <p>Email: info@dermafix.com</p>
+  <p>Phone: +20 123 456 7890</p>
+</section>
+
+<section class="card warning">
+  <h2>⚠️ Important Note</h2>
+  <p>
+    Educational purpose only. Not for direct sale.<br>
+    مشروع تعليمي فقط وليس للبيع المباشر.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Dermafix Educational Project</p>
+</footer>
+
+</body>
+</html>
